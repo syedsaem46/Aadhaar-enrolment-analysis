@@ -1,0 +1,2 @@
+sql/.gitkeep
+screenshots/.gitkeep
